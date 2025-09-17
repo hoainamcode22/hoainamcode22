@@ -1,6 +1,6 @@
 ### Hi there, I'm Hoai Nam! 👋
 
-I'm a final-year IT student at Ho Chi Minh City University of Transport, specializing in **Mobile Development** with **Android (Java/XML)** and **Flutter (Dart)**.
+I'm a final-year IT student at Ho Chi Minh City University of Transport, specializing in **Mobile Development** **Flutter**.
 
 My passion lies in creating robust and user-friendly mobile applications. I'm constantly learning new things to improve my skills and am actively seeking an opportunity to gain more experience in a professional environment.
 

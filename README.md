@@ -1,6 +1,7 @@
 ### Hi there, I'm Hoai Nam! 👋
 
-I'm a final-year IT student at Ho Chi Minh City University of Transport, specializing in **Mobile Development** **Flutter**.
+**Mobile Development**  with 1 year of hands-on experience developing efficient, high-performance applications
+using Kotlin, Java, Coroutines, and Flow. 
 
 My passion lies in creating robust and user-friendly mobile applications. I'm constantly learning new things to improve my skills and am actively seeking an opportunity to gain more experience in a professional environment.
 

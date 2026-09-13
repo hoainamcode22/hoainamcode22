@@ -1,11 +1,6 @@
 ### Hi there, I'm Hoai Nam! 👋
 
-**Mobile Development**  with 1 year of hands-on experience developing efficient, high-performance applications
-using Kotlin, Java, Coroutines, and Flow. 
-
-My passion lies in creating robust and user-friendly mobile applications. I'm constantly learning new things to improve my skills and am actively seeking an opportunity to gain more experience in a professional environment.
-
----
+I am a passionate Unity Game Developer with 1+ year of hands-on experience engineering core game systems, authoring custom Unity Editor tools, and optimizing client-side performance across WebGL and Android. Ranked Top 86 / 1,570 competitors in the Nexon Youth Programming Challenge (NYPC 2026 Master Track), I combine rigorous algorithmic problem solving (C++/C#) with solid web & database fundamentals to build clean, low-allocation, and responsive game experiences.
 
 ### 🛠️ My Tech Stack
 
